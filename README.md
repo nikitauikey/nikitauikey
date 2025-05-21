@@ -3,9 +3,7 @@
 🌐 Frontend Web Developer | HTML • CSS • JavaScript • React | Based in Nagpur, India
 
 ---
-
-## 🔍 About Me
-
+## 🚀 About Me
 I’m a passionate Web Developer with over **2.5+ years of experience** building responsive and user-friendly websites. I enjoy transforming UI/UX designs into live, interactive websites using **HTML, CSS, JavaScript**, and **React.js**. I'm a quick learner, love solving problems, and am always open to exploring new technologies.
 
 🎯 Currently working  
@@ -13,24 +11,17 @@ I’m a passionate Web Developer with over **2.5+ years of experience** building
 🔎 Exploring advanced frontend tools and version control best practices  
 💡 Believe in clean code, good design, and user-first thinking
 
----
+## 🛠️ Tech Stack
 
-## 🛠️ Skills
+<div align="center">
 
-**Languages & Tools:**
+### Languages & Tools:
+<p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </p>
 
-- 💻 HTML5, CSS3, JavaScript (ES6+)
-- ⚛️ React.js, JQuery
-- 📦 Git, GitHub
-- 📐 Responsive Design & CSS Media Queries
-- 🧪 Manual Testing, Selenium WebDriver (basics)
+### Soft Skills:
+<p align="center"> <img src="https://img.shields.io/badge/Team%20Collaboration-6A5ACD?style=for-the-badge&logo=teams&logoColor=white" /><br> <img src="https://img.shields.io/badge/Time%20%26%20Task%20Management-FF8C00?style=for-the-badge&logo=clockify&logoColor=white" /><br> <img src="https://img.shields.io/badge/Communication%20%26%20Coordination-20B2AA?style=for-the-badge&logo=slack&logoColor=white" /><br> <img src="https://img.shields.io/badge/Self-Learning%20%26%20Adaptability-32CD32?style=for-the-badge&logo=leanpub&logoColor=white" /> </p>
 
-**Soft Skills:**
-
-- 👥 Team Collaboration
-- 📈 Time & Task Management
-- 🤝 Communication & Coordination
-- 🌱 Self-Learning & Adaptability
+</div>
 
 ---
 
