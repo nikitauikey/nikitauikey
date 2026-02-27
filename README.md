@@ -4,7 +4,7 @@
 
 ---
 ## 🚀 About Me
-I’m a passionate Web Developer with over **2.5+ years of experience** building responsive and user-friendly websites. I enjoy transforming UI/UX designs into live, interactive websites using **HTML, CSS, JavaScript**, and **React.js**. I'm a quick learner, love solving problems, and am always open to exploring new technologies.
+I’m a passionate Web Developer with over **3 + years of experience** building responsive and user-friendly websites. I enjoy transforming UI/UX designs into live, interactive websites using **HTML, CSS, JavaScript**, and **React.js**. I'm a quick learner, love solving problems, and am always open to exploring new technologies.
 
 🎯 Currently working  
 🚗 Built frontend for **TrafficRewards** – an initiative by Union Minister *Nitin Gadkari*  
