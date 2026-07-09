@@ -62,7 +62,7 @@ I’m a passionate Web Developer with over **3 + years of experience** building 
 - 📍 Location: Nagpur, Maharashtra  
 - ✉️ Email: [nikitauikey4@gmail.com](mailto:nikitauikey4@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/nikita-uikey](#)  
-- 🌐 Portfolio: [nikitauikey.github.io/portfolio](https://nikitauikey.github.io/my-portfolio)
+- 🌐 Portfolio: [nikitauikey.github.io/portfolio]([https://nikitauikeyportfolio.framer.website/)
 
 ---
 
